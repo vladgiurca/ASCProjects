@@ -1,0 +1,6 @@
+E:\source\repos\BCD_ASC\BCD_ASC\bin\Debug\BCD_ASC.exe.config
+E:\source\repos\BCD_ASC\BCD_ASC\bin\Debug\BCD_ASC.exe
+E:\source\repos\BCD_ASC\BCD_ASC\bin\Debug\BCD_ASC.pdb
+E:\source\repos\BCD_ASC\BCD_ASC\obj\Debug\BCD_ASC.csprojAssemblyReference.cache
+E:\source\repos\BCD_ASC\BCD_ASC\obj\Debug\BCD_ASC.exe
+E:\source\repos\BCD_ASC\BCD_ASC\obj\Debug\BCD_ASC.pdb
