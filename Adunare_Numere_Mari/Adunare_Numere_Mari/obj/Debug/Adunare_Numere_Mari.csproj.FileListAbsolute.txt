@@ -1,0 +1,6 @@
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\bin\Debug\Adunare_Numere_Mari.exe.config
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\bin\Debug\Adunare_Numere_Mari.exe
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\bin\Debug\Adunare_Numere_Mari.pdb
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\obj\Debug\Adunare_Numere_Mari.csprojAssemblyReference.cache
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\obj\Debug\Adunare_Numere_Mari.exe
+E:\source\repos\Adunare_Numere_Mari\Adunare_Numere_Mari\obj\Debug\Adunare_Numere_Mari.pdb
